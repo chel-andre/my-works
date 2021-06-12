@@ -1,0 +1,62 @@
+{
+    "basics": {
+      "name": "Andrew Rogach",
+      "label": "QA Engineer",
+      "email": "andreyrogach@yandex.ru",
+      "phone": "+375293885836",
+      "summary": "Hello! I'm looking for QA junior position! \nI'm studying at BSUIR(evening form of education) and Adukar!",
+      "location": {
+        "countryCode": "RU",
+        "address": "Minsk"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "andrey-rogach",
+          "url": "https://www.linkedin.com/in/andrey-rogach/"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "Integral",
+        "position": "equipment adjuster",
+        "startDate": "2019-08-31",
+        "website": "https://www.linkedin.com/company/%D0%BE%D0%BE%D0%BE-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB/"
+      }
+    ],
+    "education": [
+      {
+        "institution": "Belarusian State University of Informatics and Radioelectronics",
+        "startDate": "2019-12-31",
+        "endDate": "2023-12-31"
+      },
+      {
+        "institution": "Minsk State College of Electronics",
+        "area": "mechatronics",
+        "startDate": "2015-12-31",
+        "endDate": "2019-12-31"
+      }
+    ],
+    "skills": [
+      {
+        "name": "QA"
+      },
+      {
+        "name": "testing"
+      },
+      {
+        "name": "SQL"
+      }
+    ],
+    "languages": [
+      {
+        "language": "ru",
+        "fluency": "Native Speaker"
+      },
+      {
+          "language": "en",
+          "fluency": "A2+"
+      }
+    ]
+  }
