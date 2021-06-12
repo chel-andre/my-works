@@ -1,1 +1,1 @@
-# :blush:Hi this is my github repository!:blush:
+# :blush:Hi! This is my GitHub repository!:blush:
