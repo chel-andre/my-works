@@ -3,7 +3,6 @@
       "name": "Andrew Rogach",
       "label": "QA Engineer",
       "email": "andreyrogach@yandex.ru",
-      "phone": "+375293885836",
       "summary": "Hello! I'm looking for QA junior position! \nI'm studying at BSUIR(evening form of education) and Adukar!",
       "location": {
         "countryCode": "RU",
@@ -12,7 +11,6 @@
       "profiles": [
         {
           "network": "LinkedIn",
-          "username": "andrey-rogach",
           "url": "https://www.linkedin.com/in/andrey-rogach/"
         }
       ]
